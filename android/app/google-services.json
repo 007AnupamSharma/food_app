@@ -12,7 +12,28 @@
           "package_name": "com.example.food_app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1049792811128-31nusfu6q1iu9e3088ajbf3084qgveid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_app",
+            "certificate_hash": "ce852cc6e672c7909370b620ce2e6da23b846dc3"
+          }
+        },
+        {
+          "client_id": "1049792811128-h5ld6g2dkba2e7035q0u24c7vlencgra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_app",
+            "certificate_hash": "4f5731962f05b3a2fd4e74cfd734e10c817ffac9"
+          }
+        },
+        {
+          "client_id": "1049792811128-ge4iqq6tn50btesp711uhrfjap2lk951.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDowAYb3YWgabjPWxBg8fBtFhQaw-0Mk4g"
@@ -20,7 +41,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049792811128-ge4iqq6tn50btesp711uhrfjap2lk951.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
